@@ -2,7 +2,7 @@
 
 I'm an Android developer at [Bepro Company](https://www.bepro11.com/)
 
-<a href="https://github.com/jadenkor"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=jadenkor&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+<!-- <a href="https://github.com/jadenkor"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=jadenkor&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a> -->
 
 <a href="https://www.linkedin.com/in/jaejun-yu-73361b174"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a> 
 <a href="https://www.youtube.com/@jaejuninlondon"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=Youtube&logoColor=white"/></a> 
